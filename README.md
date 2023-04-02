@@ -1,0 +1,2 @@
+# XRX-back-end-work-knowlage
+THIS IS A WORK KNOWLAGE FOR XRX ORDER ENTRY
